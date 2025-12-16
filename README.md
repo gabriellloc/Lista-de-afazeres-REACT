@@ -1,8 +1,12 @@
+
+<span style="text-align: center;">
+
 # 📋 ToDo-React-Typescript
 
-## 📄 Descrição
-Projeto de uma aplicação ToDo List desenvolvida como parte dos estudos na **Rocketseat**, com foco em boas práticas de desenvolvimento front-end utilizando React, TypeScript e Vite.
+</span>
 
+## 📄 Descrição
+Projeto de uma aplicação ToDo List desenvolvida como parte dos estudos na **Rocketseat**, com foco em boas práticas de desenvolvimento front-end utilizando React, TypeScript e Vite.<br>
 A aplicação permite gerenciar tarefas de forma simples, aplicando conceitos fundamentais do ecossistema React, como componentização, gerenciamento de estado com Hooks e navegação entre rotas.
 
 ## 🚀 Ferramentas/Tecnologias utilizadas
